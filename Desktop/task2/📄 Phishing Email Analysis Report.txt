@@ -1,0 +1,73 @@
+📄 Phishing Email Analysis Report
+🧾 Email Subject:
+Microsoft account password change
+
+📨 Sender Details:
+From Name: Support
+
+Email Address: support@msupdate.net
+
+🧑‍💻 Target Account (shown):
+ethan@hooksecurity.co
+
+🕵️‍♂️ Purpose of Email:
+The email attempts to convince the recipient that their Microsoft account password has been changed. It provides steps to reset the password, review security information, and learn about account security — all common phishing tactics to harvest user credentials.
+
+⚠️ Indicators of Phishing
+1. ❌ Suspicious Sender Domain
+The sender’s email domain msupdate.net is not affiliated with Microsoft.
+
+Official Microsoft communications typically come from domains such as @microsoft.com or @account.microsoft.com.
+
+2. 🧪 Training/Demo Context
+The recipient email (ethan@hooksecurity.co) and the website displaying it (hooksecurity.co) clearly indicate this is a phishing simulation used for security awareness training.
+
+3. 🧠 Fear-Based Social Engineering
+The message warns: “If this wasn’t you, your account has been compromised”.
+
+This creates urgency, pressuring the recipient to click on provided links without verifying the source.
+
+4. 🔗 Suspicious Hyperlinks
+Multiple links urging the recipient to:
+
+Reset their password
+
+Review security info
+
+Learn about account security
+
+These links may lead to malicious or fake Microsoft login pages to capture credentials.
+
+5. 💬 Generic Content and Language
+No personalized greeting or specific references to the recipient beyond the email address.
+
+Phishing emails often use generic language to cast a wide net across users.
+
+6. 🌐 Spoofed Technical Information
+Lists a platform (iOS), browser (Safari), IP address, and country — all of which can be easily spoofed to make the email appear legitimate.
+
+7. 📛 Lack of Branding
+No Microsoft logo, official footer, or privacy/security notice.
+
+Legitimate Microsoft emails contain proper branding and company disclaimers.
+
+🧯 Risk Level: HIGH
+If this were a real attack, clicking any link could lead to:
+
+Credential theft
+
+Account takeover
+
+Sensitive data compromise
+
+✅ Recommended Actions
+Do NOT click on any links if unsure of authenticity.
+
+Verify sender email domain and check with IT/security team.
+
+Report the email to your organization's cybersecurity or phishing report system.
+
+Educate users through phishing simulations like this to build awareness.
+
+🏁 Conclusion
+This phishing email effectively mimics a Microsoft alert to trick users. However, careful examination reveals multiple red flags — including the fake sender domain, urgency tactics, and lack of personalization. Simulation emails like this play a crucial role in training employees to recognize and report phishing threats.
